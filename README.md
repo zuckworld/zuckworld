@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anderson Caleb 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Anderson+Caleb!;Fullstack+Dev+|+Fintech+Enthusiast;Future+Tech+Mogul+in+the+Making!&center=true&width=500&height=45&color=F75C7E&vCenter=true&size=22)](https://github.com/zuckworld)
 <h3 align="center">aka Anzydev — Fullstack Developer | Fintech Enthusiast | Future Tech Mogul</h3>
 
 ---
