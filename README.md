@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Anderson+Caleb!;Fullstack+Dev+|+Fintech+Enthusiast;Future+Tech+Mogul+in+the+Making!&center=true&width=500&height=45&color=F75C7E&vCenter=true&size=22)](https://github.com/zuckworld)
-<h3 align="center">aka Anzydev — Fullstack Developer | Fintech Enthusiast | Future Tech Mogul</h3>
 
 ---
 
@@ -22,7 +21,7 @@ Building the next generation of financial infrastructure with a dream of being *
 
 ### 🚀 Projects
 
-- **🔧 Current:** [Doowla](https://github.com/zuckworld/Doowla) — Fintech infrastructure for Africa  
+- **🔧 Current:** [Doowla](https://github.com/zuckworld/doowla-frontend) — Fintech infrastructure for Africa  
 - **📱 Notable:** *Wetin Be This?* — Cultural item identifier powered by AI  
 - **💻 Just Launched:** [FitTrackr](https://github.com/zuckworld/FitTrackr) — A personal fitness tracker built with C# and WPF
 
